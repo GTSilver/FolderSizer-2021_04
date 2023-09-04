@@ -1,0 +1,10 @@
+D:\яя\Folders Sizer\bin\Debug\Folders Sizer.exe.config
+D:\яя\Folders Sizer\bin\Debug\Folders Sizer.exe
+D:\яя\Folders Sizer\bin\Debug\Folders Sizer.pdb
+D:\яя\Folders Sizer\obj\Debug\Folders Sizer.csprojAssemblyReference.cache
+D:\яя\Folders Sizer\obj\Debug\Folders_Sizer.Form1.resources
+D:\яя\Folders Sizer\obj\Debug\Folders_Sizer.Properties.Resources.resources
+D:\яя\Folders Sizer\obj\Debug\Folders Sizer.csproj.GenerateResource.cache
+D:\яя\Folders Sizer\obj\Debug\Folders Sizer.csproj.CoreCompileInputs.cache
+D:\яя\Folders Sizer\obj\Debug\Folders Sizer.exe
+D:\яя\Folders Sizer\obj\Debug\Folders Sizer.pdb
